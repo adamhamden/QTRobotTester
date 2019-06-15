@@ -1,0 +1,2 @@
+qt_tester
+-DCATKIN_DEVEL_PREFIX=/home/robotpt/QTRobotTester/devel -DCMAKE_INSTALL_PREFIX=/home/robotpt/QTRobotTester/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/robotpt/QTRobotTester/devel
+
+Name: qt_tester
+Description: Description of qt_tester
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/robotpt/QTRobotTester/devel/lib 
+Requires: 
